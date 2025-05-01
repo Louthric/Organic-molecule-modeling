@@ -6,7 +6,7 @@ Song, Yang, et al. "Size Control of On-Surface Self-Assembled Nanochains Using S
 
 modeling of organic molecular blocks:
 
-![image-20250501144658613](C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20250501144658613.png)
+![image-20250501144658613](assets/image-20250501144658613.png)
 
 some result with force control:
 
